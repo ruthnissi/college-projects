@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tebak Angka</title>
+  </head>
+  <body>
+    <h1>Tebak Angka</h1>
+    <p>Silakan masukkan angka tebakan Anda (1-100):</p>
+    <form method="POST" action="{{ url_for('tebak') }}">
+      <input type="number" name="tebakan" min="1" max="100" required />
+      <input type="submit" value="Tebak" />
+    </form>
+  </body>
+</html>
