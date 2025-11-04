@@ -1,4 +1,6 @@
-Ini buat praktikum robotika cerdas, nanti i try to add from the first week
+Ini buat praktikum robotika cerdas
 
 Modul:
 GAN (Generative Adversarial Network)
+
+Tools: Jupyter Notebook, Google Colab, Kaggle
